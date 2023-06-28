@@ -1,0 +1,47 @@
+*{
+    background-color: rgba(0, 0, 0, 0.477);
+
+    color: antiquewhite;
+}
+.container{
+    width: 75vw;
+    
+    margin: auto;
+    background-color: whitesmoke;
+    min-height: 100vh;
+}
+input{
+    width: 40vw;
+    background-color:  white;
+    padding: 10px;
+}
+#num{
+    margin-left: 10px;
+    color: black;
+}
+button{
+    background-color: rgba(27,27,27);
+    padding: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+button:hover{
+    background-color: crimson;
+}
+.data{
+    display: flex;
+    justify-content: left;
+    background-color: whitesmoke;
+}
+h1{
+    margin-left: 10px;
+    color: black;
+    background-color: whitesmoke;
+    margin-bottom: 5px;
+}
+.para{
+    background-color:  gray;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
